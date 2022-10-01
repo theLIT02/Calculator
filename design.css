@@ -7,15 +7,17 @@ body {
 }
 
 .calci {
-    width: 500px;
-    padding-top: 100px;
-    padding-bottom: 100;
-    position: absolute;
-    top: 50%;
-    left: 70%;
-    transition: 0.25px;
-    transform: translate(-50%, -50%);
-    text-align: center;
+    width: 364px;
+padding-top: 35px;
+padding-bottom: 48;
+position: absolute;
+top: 57%;
+left: 52%;
+box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.73);
+transition: 0.25px;
+transform: translate(-50%, -50%);
+text-align: center;
+border-radius: 21px;
 }
 
 #zero {
@@ -56,10 +58,10 @@ body {
 }
 
 h1 {
-    margin-top: 300px;
+    /* margin-top: 300px; */
     margin-left: 100px;
     font-family: sans-serif;
-    font-size: 50;
+    font-size: 45;
     text-decoration: underline;
     color: green;
     text-transform: uppercase;
@@ -95,4 +97,4 @@ h2 {
     background: #07a3be;
 }
 
-<!-- 2nd Change for hactoberfest-->
+/* <!-- 2nd Change for hactoberfest --> */
